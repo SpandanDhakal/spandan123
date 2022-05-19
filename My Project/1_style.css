@@ -1,0 +1,36 @@
+header{
+    background-color: gold;
+    color:black;
+    padding: 10px;
+    margin: 10px;
+    font-family: "Comic Sans Ms";
+    text-align: center;
+}
+nav{
+    overflow: hidden;
+    background-color: rgb(16, 15, 6);
+}
+nav img{
+    padding: 10px;
+    float: left ;
+}
+nav a{
+    
+    color:rgb(245, 251, 248);
+    padding: 30px;
+    text-decoration: none;
+   
+}
+nav a:hover{
+    background-color: rgb(0, 204, 255);
+}
+p{
+    text-align: justify;
+}
+footer{
+    clear: both ;
+    background-color: gold;
+    color: black;
+    font-family:"Comic Sans Ms";
+    padding: 20px;;
+}
